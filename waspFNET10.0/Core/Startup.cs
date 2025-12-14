@@ -1,0 +1,2 @@
+﻿using WASP.Packing;
+using WASP.Validation; using WASP.Packing; using WASP.UI; using WASP.Validation; using WASP.Packing; using WASP.Config;  namespace WASP.Core {     static class Startup     {         public static void Run(string[] args)         {             ConsoleUI.Init();              if (!ConfigManager.Exists())             {                 SetupWizard.Run();             }              CommandRouter.Route(args);         }     } } 

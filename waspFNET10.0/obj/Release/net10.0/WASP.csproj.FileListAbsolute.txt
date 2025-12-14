@@ -1,0 +1,14 @@
+F:\repos\repos\waspFNET10.0\obj\Release\net10.0\WASP.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\repos\waspFNET10.0\obj\Release\net10.0\WASP.AssemblyInfoInputs.cache
+F:\repos\repos\waspFNET10.0\obj\Release\net10.0\WASP.AssemblyInfo.cs
+F:\repos\repos\waspFNET10.0\obj\Release\net10.0\WASP.csproj.CoreCompileInputs.cache
+F:\repos\repos\waspFNET10.0\bin\Release\net10.0\WASP.exe
+F:\repos\repos\waspFNET10.0\bin\Release\net10.0\WASP.deps.json
+F:\repos\repos\waspFNET10.0\bin\Release\net10.0\WASP.runtimeconfig.json
+F:\repos\repos\waspFNET10.0\bin\Release\net10.0\WASP.dll
+F:\repos\repos\waspFNET10.0\bin\Release\net10.0\WASP.pdb
+F:\repos\repos\waspFNET10.0\obj\Release\net10.0\WASP.dll
+F:\repos\repos\waspFNET10.0\obj\Release\net10.0\refint\WASP.dll
+F:\repos\repos\waspFNET10.0\obj\Release\net10.0\WASP.pdb
+F:\repos\repos\waspFNET10.0\obj\Release\net10.0\WASP.genruntimeconfig.cache
+F:\repos\repos\waspFNET10.0\obj\Release\net10.0\ref\WASP.dll
